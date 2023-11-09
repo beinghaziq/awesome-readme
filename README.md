@@ -12,6 +12,7 @@ In this app I am getting the products data from the dummyjson api and using that
 - View Product: Click on a product title to go to show page.
 - Add Comment to Product: Users can add comments to a specific product.
 
+(a demo video can be preferably added here)
 <img width="1409" alt="Screenshot 2023-11-09 at 7 17 12 PM" src="https://github.com/beinghaziq/awesome-readme/assets/72576839/c884958c-f0dd-4ae1-bdcc-39a888cddcb8">
 
 
@@ -56,7 +57,7 @@ In this app I am getting the products data from the dummyjson api and using that
 
 ## API Documentation
 
-add postman link here
+add postman or Swagger link here
 
 ## Run Tests
 
