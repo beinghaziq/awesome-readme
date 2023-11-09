@@ -12,7 +12,8 @@ In this app I am getting the products data from the dummyjson api and using that
 - View Product: Click on a product title to go to show page.
 - Add Comment to Product: Users can add comments to a specific product.
 
-(a demo video can be preferably added here)
+`(a demo video can be preferably added here)`
+
 <img width="1409" alt="Screenshot 2023-11-09 at 7 17 12 PM" src="https://github.com/beinghaziq/awesome-readme/assets/72576839/c884958c-f0dd-4ae1-bdcc-39a888cddcb8">
 
 
@@ -36,8 +37,8 @@ In this app I am getting the products data from the dummyjson api and using that
 
 1. **Clone the Repository**:
    ```bash
-   git clone [<repository-url>](https://github.com/Chsaleem31/take-home-assignment-the-room.git)
-   cd take-home
+   git clone [<repository-url>](https://github.com/Owner/repo.git)
+   cd repo
    create a .env file and copy content from .env.example to it
    ```
 2. **Build the Docker Images**:
