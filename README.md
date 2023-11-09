@@ -12,6 +12,9 @@ In this app I am getting the products data from the dummyjson api and using that
 - View Product: Click on a product title to go to show page.
 - Add Comment to Product: Users can add comments to a specific product.
 
+![Uploading Screenshot 2023-11-09 at 7.17.12 PM.png…]()
+
+
 # Build With
 
 - Framework: Ruby on Rails 7.0
